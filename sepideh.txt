@@ -3,4 +3,9 @@ thanks
 ;)
 sepideh umad
 khodaro shokr
+<<<<<<< HEAD
 oh remote!
+=======
+oh remote!
+sepide hastam!
+>>>>>>> origin/sepidehChange
